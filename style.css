@@ -241,6 +241,12 @@ h1 {
     border-radius: 30px;
 
 }
+
+.newsBtn:hover{
+    background: #0558d4;
+   
+
+}
 .newsRight{
     background: white;
     height: 265px;
